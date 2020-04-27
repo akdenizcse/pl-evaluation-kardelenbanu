@@ -36,7 +36,19 @@ You can still simulate data models, prototypes and products you design or calcul
 You can also design interfaces for users and even MATLAB to work with other programming applications more easily.
 
 
+-How to setup an environment to use it in different platforms?
 
+Some universities provide free access to MATLAB for their learners to use.
+
+For Windows:
+You should first visit https://www.mathworks.com/?s_tid=gn_logo and download it to the desktop via the internet.
+Then, you should start the program by double-clicking the matlab icon.
+Also;
+-Windows 10 systems — Start > All apps > MATLAB Release
+
+Windows 8 systems — On the Start screen or the desktop, click MATLAB Release.
+
+Windows 7 systems — If you chose to have the installer put a shortcut to the MATLAB program on the Windows Start menu, then select Start > MATLAB Release.
 
 
 
