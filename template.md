@@ -22,18 +22,18 @@ As we mentioned above; MATLAB was developed to enable a teacher to reach LINPACK
 MATLAB; It started like a simple calculator and went a long way.It is very common to use MATLAB especially in engineering applications. 
 It is frequently used in the analysis of systems and in the visualization of mathematical calculations.MATLAB has a mathematical function library that can perform the calculation of linear algebra and matrices as a math product.
 
-The main areas use of MATLAB are:
--Numerical Linear Algebra Calculations
--Data Analysis and Visualization
--Creating Graphics for Big Data
--Algorithm Development
--Machine Learning
--Data Science
--Deep Learning
--Creating Graphical User Interface and Application Programming Interface
--Simulation
+### The main areas use of MATLAB are:
+* Numerical Linear Algebra Calculations
+* Data Analysis and Visualization
+* Creating Graphics for Big Data
+* Algorithm Development
+* Machine Learning
+* Data Science
+* Deep Learning
+* Creating Graphical User Interface and Application Programming Interface
+* Simulation
 
-with MATLAB,
+
 You can apply and design different algorithms using MATLAB.
 By uploading data from different sources such as file, database or internet into MATLAB,you can analyze them or have them visualized with various options.
 You can still simulate data models, prototypes and products you design or calculate with MATLAB.
