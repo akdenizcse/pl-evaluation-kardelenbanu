@@ -95,5 +95,12 @@ You can choose different operating systems to use MATLAB. You can install and fu
   fplot(@(x) sin(x))
   ```
   ![Plotting Graph](https://www.mathworks.com/help/examples/graphics/win64/PlotExpressionExample_01.png)
+  
+## Things That Are Specific To This Language (Cool Matlab Features and Unusual Use Of Matlab Functions):
+* Based on Matlab, large-scale simulations can be processed.
+* Image Processing can be done on videos and images using 'Simulink'.
+* Graphs can be plotted on large scale datasets.
+* Due to its extensive documentation and community, Matlab is a preferred distribution in many Scientific platforms and research-development environments.
+
 
 
