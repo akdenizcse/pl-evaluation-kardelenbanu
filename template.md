@@ -90,6 +90,6 @@ You can choose different operating systems to use MATLAB. You can install and fu
       ```matlab
       z = zeros(5,1)
       ```
-* Plotting Expressions:
+* **Plotting Expressions:
 
 
