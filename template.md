@@ -40,19 +40,29 @@ You can still simulate data models, prototypes and products you design or calcul
 You can also design interfaces for users and even MATLAB to work with other programming applications more easily.
 
 
--How to setup an environment to use it in different platforms?
+## How to setup an environment to use it in different platforms?
+You can choose different operating systems to use MATLAB. You can install and fully use the matlab environment in the 3 most popular operating systems below;
+1. Windows
+2. MacOS
+3. Linux
 
-Some universities provide free access to MATLAB for their learners to use.
+> Some universities provide free access to MATLAB for their students to use.
 
-For Windows:
-You should first visit https://www.mathworks.com/?s_tid=gn_logo and download it to the desktop via the internet.
-Then, you should start the program by double-clicking the matlab icon.
-Also;
--Windows 10 systems — Start > All apps > MATLAB Release
-
-Windows 8 systems — On the Start screen or the desktop, click MATLAB Release.
-
-Windows 7 systems — If you chose to have the installer put a shortcut to the MATLAB program on the Windows Start menu, then select Start > MATLAB Release.
+### Matlab Environment Setup:
+**If you want all downloads independent of te operating system to be original, you need to open an account on the official Matlab website**
+* For Windows:
+  * Firstly you should visit the [Official Website](https://www.mathworks.com/downloads/web_downloads/?s_iid=hp_ff_t_downloads) for MATLAB and you should download the most suitable version to your PC.
+  * After the download of the suitable installation file is completed. The downloaded .exe is run and environment installation is provided.
+* For MacOS :
+  * Download the original setup file from the official Matlab website, 
+  * Enter license key information or user account information.
+  * Select the folder where the Matlab Environment will be installed.
+  * Wait for the setup is completed.
+  * You can check this video for visualize Instructions [HERE](https://www.youtube.com/watch?v=fMS2pu015WI)
+* For Linux : 
+  * After the installation downloaded from the official website as described in the above sections, the following steps are applied to start the application in the linux system.
+  * To start MATLAB on Linux platforms, type matlab at the operating system prompt. If you did not set up symbolic links in the installation procedure, then type matlabroot/bin/matlab. matlabroot is the name of the folder in which you installed MATLAB. To see the folder, type matlabroot.
+  * Check [documentation](https://www.mathworks.com/help/matlab/matlab_env/start-matlab-on-linux-platforms.html#responsive_offcanvas) for more
 
 
 
