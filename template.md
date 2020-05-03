@@ -1,14 +1,14 @@
-#MATLAB
+# MATLAB
 
 
-##History of MATLAB
+## History of MATLAB
 
 MATLAB is a programming language in which mathematical notation is used and algorithms and mathematical functions are developed.
 
 MATLAB was not originally a programming language, its development began in the late 1970s.The person who started to develop was Cleve Moler.Cleve Moler's main goal in developing MATLAB was that his students could access EISPACK and LINPACK without needing to use Fortran.MATLAB, which started to be developed for this purpose, became popular in the field of mathematics in a short time.Immediately after its popularity increased, engineer Jack Little and his friend Steve Bangert realized the mathematical potential of MATLAB and offered cooperation to Moler.After this solidarity, they re-encoded MATLAB in language C. And in 1984 they launched PC-MATLAB.
 
 
-##Why was MATLAB invented?
+## Why was MATLAB invented?
 
 As we mentioned above; MATLAB was developed to enable a teacher to reach LINPACK and EISPACK to their students without using any other programming language.
 
