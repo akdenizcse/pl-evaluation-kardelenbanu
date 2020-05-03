@@ -91,5 +91,9 @@ You can choose different operating systems to use MATLAB. You can install and fu
       z = zeros(5,1)
       ```
 * **Plotting Expressions:**
+  ```matlab
+  fplot(@(x) sin(x))
+  ```
+  ![Plotting Graph](https://www.mathworks.com/help/examples/graphics/win64/PlotExpressionExample_01.png)
 
 
