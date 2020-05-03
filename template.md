@@ -49,7 +49,7 @@ You can choose different operating systems to use MATLAB. You can install and fu
 > Some universities provide free access to MATLAB for their students to use.
 
 ### Matlab Environment Setup:
-**If you want all downloads independent of te operating system to be original, you need to open an account on the official Matlab website**
+**If you want all downloads independent of the operating system to be original, you need to open an account on the official Matlab website**
 * For Windows:
   * Firstly you should visit the [Official Website](https://www.mathworks.com/downloads/web_downloads/?s_iid=hp_ff_t_downloads) for MATLAB and you should download the most suitable version to your PC.
   * After the download of the suitable installation file is completed. The downloaded .exe is run and environment installation is provided.
@@ -64,7 +64,32 @@ You can choose different operating systems to use MATLAB. You can install and fu
   * To start MATLAB on Linux platforms, type matlab at the operating system prompt. If you did not set up symbolic links in the installation procedure, then type matlabroot/bin/matlab. matlabroot is the name of the folder in which you installed MATLAB. To see the folder, type matlabroot.
   * Check [documentation](https://www.mathworks.com/help/matlab/matlab_env/start-matlab-on-linux-platforms.html#responsive_offcanvas) for more
 
+## Example Codes:
 
+* **Create Functions in Files:**
 
+  ```matlab
+  function f = fact(n)
+      f = prod(1:n);
+  end
+  
+  x = 5;
+  y = fact(5)
+  ```
+  y = 120
+* **Matrices and Arrays:**
+  * Array Creation
+      ```matlab
+      a = [1 2 3 4]
+      ```
+      a = 1×4
+
+      1     2     3     4
+      
+  * Create Zeros Matrix
+      ```matlab
+      z = zeros(5,1)
+      ```
+* Plotting Expressions:
 
 
